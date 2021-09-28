@@ -1,7 +1,6 @@
 DEBUG STM8 programs compiled and build with SDCC compiler.
 
-1. After building the program, transfer the .HEX file to STM8 Discovery and look for .RST file containing the list of the variables
-used with address and length.
+1. After building the program, transfer the .HEX file to STM8 Discovery and look for .RST file containing the list of the variables used with address and length.
 2. Load the file into SmartSTLINK
 3. Connect to yuor STM8 Discovery via USB
 4. Enable refresh variables. You'll find the number of the variables found
